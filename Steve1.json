@@ -1,0 +1,241 @@
+{
+
+    "Hungama": [
+
+      {
+
+        "title": "Hungama TV",
+
+        "tataSkyid": 0,
+
+        "tv-genie-slug": "hungama",
+
+        "old_link": "http://103.157.210.165:8000/play/a00q/index.m3u8",
+
+        "link_old": "http://103.150.209.115:8000/play/a024", 
+
+        "link": "http://103.179.246.243:8000/play/a01x",
+
+        "audio" : ["Telugu", "Tamil", "Hindi"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "MarvelHQ": [
+
+      {
+
+        "title": "Super Hungama",
+
+        "tataSkyid": 0,
+
+        "tv-genie-slug": "marvel-hq",  
+
+        "link": "http://103.179.246.243:8000/play/a05p",
+
+        "audio" : ["Telugu", "Tamil", "Hindi", "English"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "CN": [
+
+      {
+
+        "title": "Cartoon Network",
+
+        "tataSkyid": 238,
+
+        "tv-genie-slug": "cartoon-network",
+
+        "old_link": "http://103.157.210.165:8000/play/a00p/index.m3u8",
+
+        "hindi_link": "http://103.153.39.36:8000/play/a01w",
+
+        "link_forbidden": "http://59.103.231.214:8000/play/a045",
+
+        "link" : "http://103.179.246.243:8000/play/a01w",
+
+        "audio" : ["Telugu", "Tamil", "Telugu", "English"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+],
+
+    "Disney": [
+
+      {
+
+        "title": "Disney Channel",
+
+        "tataSkyid": 114,
+
+        "tv-genie-slug": "disney-channel",
+
+        "old_link": "http://103.157.210.165:8000/play/a00r/index.m3u8",
+
+        "old_link1": "http://103.153.39.36:8000/play/a01y",
+
+        "link" : "http://103.179.246.243:8000/play/a01y",
+
+        "audio" : ["Telugu", "Tamil", "Hindi", "English"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "Nick": [
+
+      {
+
+        "title": "Nick",
+
+        "tataSkyid": 138,
+
+        "tv-genie-slug": "nick",
+
+        "old_link": "http://103.157.210.165:8000/play/a00s/index.m3u8",
+
+        "link": "http://103.179.246.243:8000/play/a01z",
+
+        "audio" : ["Telugu", "Tamil", "Hindi", "Kannada"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "DisneyJunior": [
+
+      {
+
+        "title": "Disney Junior",
+
+        "tataSkyid": 144,
+
+        "tv-genie-slug": "",
+
+        "old_link": "http://103.157.210.165:8000/play/a00u/index.m3u8",
+
+        "link": "http://103.179.246.243:8000/play/a020",
+
+        "audio" : ["Telugu","Tamil", "Hindi", "English"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "Sonic": [
+
+      {
+
+        "title": "Sonic Nickelodeon",
+
+        "tataSkyid": 127,
+
+        "tv-genie-slug": "sonic",
+
+        "old_link": "http://103.157.210.165:8000/play/a00v/index.m3u8",
+
+        "link": "http://103.179.246.243:8000/play/a021",
+
+        "audio" : ["Telugu", "Tamil", "Hindi", "Kannada", "Bengali", "Marathi", "Malayalam"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "Pogo": [
+
+      {
+
+        "title": "Pogo",
+
+        "tataSkyid": 239,
+
+        "tv-genie-slug": "pogo",
+
+        "old_link": "http://103.157.210.165:8000/play/a00w/index.m3u8",
+
+        "link": "http://103.179.246.243:8000/play/a022",
+
+        "audio" : ["Telugu","Tamil","Hindi","English"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+
+    ],
+
+    "DKids": [
+
+      {
+
+        "title": "Discovery Kids",
+
+        "tataSkyid": 119,
+
+        "tv-genie-slug": "",
+
+        "old_link": "http://103.157.210.165:8000/play/a00y/index.m3u8",
+
+        "link": "http://103.179.246.243:8000/play/a024",
+
+        "audio" : ["Telugu" , "Tamil" , "Hindi" , "Kannada" , "Malayalam"],
+
+        "language": "Telugu",
+
+        "ripType" : "SDTV WEB-DL",
+
+        "quality" : "576p"
+
+      }
+       ]
+      }
